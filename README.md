@@ -23,3 +23,5 @@ We purposefully built this out to be a skeleton version of what can be the next 
 8. Can you add ENS support for inputs?
 9. The code has no commenting... bruh! Clear documentation is a clear path for other developers to understand and build on your code... think you can add clear commenting?
 10. Completely open-ended!! Use this as the base for your next hackathon project, dream company or personal expedition :)
+
+I had to do what I thought had to be done !
